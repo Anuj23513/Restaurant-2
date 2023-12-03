@@ -1,0 +1,30 @@
+#chef{
+    padding: 25px 0 25px 0;
+}
+#chef_row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.chef_col{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.chef{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+.chef img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+}
+
+
